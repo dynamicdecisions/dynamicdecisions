@@ -1,0 +1,14 @@
+# Site settings
+title:       Consequential Decisions in Dynamic Environments
+email:       miller_john@berkeley.edu 
+author:      John Miller
+description: "Workshop on Consequential Decisions in Dynamic Environments"
+baseurl:     ""
+url:         "http://dynamicdecisions.github.io"
+date_format: "%b %-d, %Y"
+timezone:    America/Los_Angeles
+
+# Build settings
+markdown:   kramdown
+remote_theme: daviddarnes/alembic
+paginate:     10
