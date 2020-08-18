@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- #### <center> Virtual workshop, December 2020 @ Neurips</center> #### -->
+<center> Virtual workshop, December 2020 @ Neurips</center>
 ------
 <p style="text-align: justify;">
 Machine learning is rapidly becoming an integral component of sociotechnical
@@ -20,7 +20,7 @@ machine learning methodology. Static measurements and training sets poorly
 capture the complexity of dynamic interactions between algorithms and humans.
 Strategic adaptation to decision rules can render statistical regularities
 obsolete. Correlations momentarily observed in data may not be robust enough to
-support interventions for long-term welfare. <br><br>
+support interventions for long-term welfare.<br><br>
 
 Recognizing the limits of traditional, static approaches to decision-making,
 researchers in fields ranging from public policy to computer science to
@@ -30,13 +30,17 @@ consequential decisions in dynamic environments. Work in this area sits at the
 nexus of several different fields, and the workshop will provide an opportunity
 to better understand and synthesize social and technical perspectives on these
 issues and catalyze conversations between researchers and practitioners working
-across these diverse areas. </p>
+across these diverse areas.</p>
 
 Invited Speakers
 ------
 * **[Rediet Abebe](https://www.cs.cornell.edu/~red/)** 
 * **[Hamsa Bastani](https://hamsabastani.github.io/)**
+* **[Yiling Chen](https://yiling.seas.harvard.edu/)**
+* **[Moritz Hardt](https://mrtz.org/)**
+* **[Mitsue Iwata](http://www.mitsueiwata.com/bio/)**
 * **[Maximilian Kasy](https://maxkasy.github.io/home/)**
+* **[Daniel Kuhn](https://people.epfl.ch/daniel.kuhn)**
 
 Call for Submissions & Important Dates
 ------
@@ -44,7 +48,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 
 * Submission deadline: September 15, 2020 (Anywhere on Earth)
 * Notification of acceptance: October 1, 2020 
-* Workshop date: TBD
+* Workshop date: December 11, 2020
 
 Organizers
 ------

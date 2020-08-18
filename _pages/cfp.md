@@ -6,11 +6,13 @@ author_profile: true
 sitemap: false
 ---
 
-We welcome submissions of 4-6 pages (excluding references) in [XYZ format]().
+We welcome submissions of 4-6 pages (excluding references) following the
+[NeurIPS style
+guide](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles).
 Submissions should be non-anonymous. All accepted papers will be presented as
 posters (recently published or under-review work is also welcome). There will be
 no archival proceedings, however, the accepted papers will be made available
-online on the workshop website. Papers should be submitted [here via TODO!]().
+online on the workshop website. Papers should be submitted [here via CMT](TODO).
 
 Technical topics of interest include (but are not limited to):
 * Performativity: strategic behavior, gaming, incentivization
