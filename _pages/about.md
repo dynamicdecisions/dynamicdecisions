@@ -43,8 +43,8 @@ Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](/cfp/) for submission instructions.
 
-* Submission deadline: September 15, 2020, Anywhere on Earth
-* Notification of acceptance: October 1, 2020 
+* Submission deadline: October 02, 2020, Anywhere on Earth
+* Notification of acceptance: October 30, 2020 
 * Workshop date: Friday, December 11, 2020, or Saturday, December 12, 2020
 
 Organizers
