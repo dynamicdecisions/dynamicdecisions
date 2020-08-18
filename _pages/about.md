@@ -50,7 +50,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 Organizers
 ------
 * **[Angela Zhou](https://people.orie.cornell.edu/az434/)** (Cornell)
-* **[Ashia Wilson](https://aswilson07.github.io/website)** (MSR New England)
+* **[Ashia Wilson](https://www.ashiawilson.com/)** (MIT)
 * **[John Miller](https://people.eecs.berkeley.edu/~miller_john/)** (UC Berkeley)
 * **[Lily Hu](https://scholar.harvard.edu/lilyhu)** (Harvard)
 * **[Lydia Liu](http://people.eecs.berkeley.edu/~lydiatliu)** (UC Berkeley)
