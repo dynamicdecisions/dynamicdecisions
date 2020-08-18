@@ -12,7 +12,8 @@ guide](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles).
 Submissions should be non-anonymous. All accepted papers will be presented as
 posters (recently published or under-review work is also welcome). There will be
 no archival proceedings, however, the accepted papers will be made available
-online on the workshop website. Papers should be submitted [here via CMT](TODO).
+online on the workshop website. Papers should be submitted via CMT (link
+available soon).
 
 Technical topics of interest include (but are not limited to):
 * Performativity: strategic behavior, gaming, incentivization
