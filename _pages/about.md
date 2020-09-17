@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<center> Virtual workshop, December 2020 @ Neurips</center>
+<center> Virtual workshop, December 12, 2020 @ Neurips</center>
 ------
 <p style="text-align: justify;">
 Machine learning is becoming an integral component of sociotechnical
@@ -45,7 +45,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 
 * Submission deadline: October 2, 2020, Anywhere on Earth
 * Notification of acceptance: October 30, 2020 
-* Workshop date: Friday, December 11, 2020, or Saturday, December 12, 2020
+* Workshop date: Saturday, December 12, 2020
 
 Organizers
 ------
