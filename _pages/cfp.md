@@ -8,7 +8,7 @@ sitemap: false
 
 Important Dates
 ---------------
-* Submission deadline: October 2, 2020, Anywhere on Earth
+* Submission deadline: October 9, 2020, Anywhere on Earth
 * Notification of acceptance: October 30, 2020 
 
 We welcome submissions of 4-6 pages (excluding references) following the
