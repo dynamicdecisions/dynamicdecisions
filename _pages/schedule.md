@@ -5,4 +5,4 @@ permalink: /schedule/
 author_profile: true
 ---
 
-The official schedule will be announced soon.
+Please check the official schedule [here](https://neurips.cc/virtual/2020/public/workshop_16117.html).
