@@ -10,7 +10,7 @@ sitemap: false
 * [Learning to Personalize Treatments When Agents Are Strategic](https://arxiv.org/abs/2011.06528). Evan Munro.
 * [Social Choice with Changing Preferences: Representation Theorems and Long-Run Policies](/assets/pdfs/7.pdf). Kshitij Kulkarni, Sven Neth.
 * [How do fair decisions fare in long-term qualification?](/assets/pdfs/8.pdf) Xueru Zhang, Ruibo Tu, Yang Liu, Hedvig Kjellström, Mingyan Liu, Kun Zhang, Cheng Zhang.
-* [Classification under Human Assistance](https://arxiv.org/abs/2006.11845). Abir De.
+* [Classification under Human Assistance](https://arxiv.org/abs/2006.11845). Abir De, Nastaran Okati, Ali Zarezade, Manuel Gomez-Rodriguez.
 * [Rebounding Bandits for Modeling Satiation Effects](http://arxiv.org/abs/2011.06741). Liu Leqi, Fatma Kilinc-Karzan, Alan Montgomery, Zachary  Lipton.
 * [Do Offline Metrics Predict Online Performance in Recommender Systems?](/assets/pdfs/12.pdf) Karl Krauth, Sarah Dean, Alex Zhao, Wenshuo Guo, Mihaela Curmei, Benjamin Recht, Michael Jordan.
 * [Bandit Data-driven Optimization: AI for Social Good and Beyond](https://arxiv.org/abs/2008.11707). Zheyuan Ryan Shi, Steven Wu, Rayid Ghani, Fei Fang.
