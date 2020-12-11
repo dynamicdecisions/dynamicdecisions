@@ -8,6 +8,9 @@ sitemap: false
 
 Poster session AM: 
 
+Only AM: 
+
+
 * [Large-scale Open Dataset and Pipeline for Bandit Algorithms](/assets/pdfs/4.pdf). Yuta Saito, Shunsuke Aihara, Megumi Matsutani, Yusuke Narita.
 * [Performative Prediction in a Stateful World](/assets/pdfs/20.pdf). Gavin Brown, Shlomi Hod, Iden Kalemaj.
 * [Learning to Personalize Treatments When Agents Are Strategic](https://arxiv.org/abs/2011.06528). Evan Munro.
@@ -19,11 +22,15 @@ Poster session AM:
 * [Strategic Recourse in Linear Classification](/assets/pdfs/28.pdf). Yatong Chen, Jialu Wang, Yang Liu.
 
 
+(Both) 
 * [Optimal Policies for the Homogeneous Selective Labels Problem](https://arxiv.org/abs/2011.01381). Dennis Wei.
 * [Classification under Human Assistance](https://arxiv.org/abs/2006.11845). Abir De, Nastaran Okati, Ali Zarezade, Manuel Gomez-Rodriguez.
 
 
 Poster session PM: 
+
+Only PM: 
+
 * [Do Offline Metrics Predict Online Performance in Recommender Systems?](/assets/pdfs/12.pdf) Karl Krauth, Sarah Dean, Alex Zhao, Wenshuo Guo, Mihaela Curmei, Benjamin Recht, Michael Jordan.
 * Rankings for Two-Sided Market Platforms. Yi Su, Thorsten Joachims.
 * [Echo Chambers in Collaborative Filtering Based Recommendation Systems](/assets/pdfs/27.pdf). Emil Noordeh, Roman Levin, Ruochen Jiang, Harris Shadmany.
