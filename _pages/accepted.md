@@ -18,7 +18,7 @@ Only AM:
 * [8 How do fair decisions fare in long-term qualification?](/assets/pdfs/8.pdf) Xueru Zhang, Ruibo Tu, Yang Liu, Hedvig Kjellström, Mingyan Liu, Kun Zhang, Cheng Zhang.
 * [15 Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278). Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera.
 * [18 Exploration in two-stage recommender systems](https://arxiv.org/abs/2009.08956). Jiri Hron, Karl Krauth, Michael Jordan, Niki Kilbertus.
-* Near-optimal inference in adaptive linear regression. Koulik Khamaru, Yash Deshpande, Lester Mackey, Martin Wainwright.
+* 22 Near-optimal inference in adaptive linear regression. Koulik Khamaru, Yash Deshpande, Lester Mackey, Martin Wainwright.
 * [28 Strategic Recourse in Linear Classification](/assets/pdfs/28.pdf). Yatong Chen, Jialu Wang, Yang Liu.
 
 
