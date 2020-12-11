@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-Poster session AM: 
+Poster session AM (9am-10am PST: 
 
 Only AM: 
 
@@ -28,7 +28,7 @@ Only AM:
 * [10 Classification under Human Assistance](https://arxiv.org/abs/2006.11845). Abir De, Nastaran Okati, Ali Zarezade, Manuel Gomez-Rodriguez.
 
 
-Poster session PM: 
+Poster session PM (2:45PM-3:45 PST): 
 
 Only PM: 
 
