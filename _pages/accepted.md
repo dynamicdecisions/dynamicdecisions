@@ -35,6 +35,8 @@ Only PM:
 * Rankings for Two-Sided Market Platforms. Yi Su, Thorsten Joachims.
 * [Echo Chambers in Collaborative Filtering Based Recommendation Systems](/assets/pdfs/27.pdf). Emil Noordeh, Roman Levin, Ruochen Jiang, Harris Shadmany.
 
+
+(Both)
 * Understanding and Measuring Income Shocks as a Precursors to Poverty. Rediet Abebe, Jon Kleinberg, Andrew Wang.
 * [Evaluating Model Robustness to Dataset Shift](https://arxiv.org/abs/2010.15100). Adarsh Subbaswamy, Roy Adams, Suchi Saria.
 * [Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels](/assets/pdfs/29.pdf). Jessica Dai, Sarah M Brown.
