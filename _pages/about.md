@@ -27,6 +27,9 @@ researchers in fields ranging from public policy to computer science to
 economics have recently begun to view consequential decision-making through a
 dynamic lens. This workshop will confront the use of machine learning to make
 consequential decisions in dynamic environments. 
+
+[Gather.Town Link](https://neurips.gather.town/app/y2VG8424bFBvPFDn/CDDE)
+
 </p>
 
 Invited Speakers
