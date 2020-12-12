@@ -18,7 +18,7 @@ Only AM:
 * [8 How do fair decisions fare in long-term qualification?](/assets/pdfs/8.pdf) Xueru Zhang, Ruibo Tu, Yang Liu, Hedvig Kjellström, Mingyan Liu, Kun Zhang, Cheng Zhang. [Video](https://youtu.be/yejQJGxYbLU)
 * [15 Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278). Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera. [Video](https://www.youtube.com/watch?v=3ngjeesGePU)
 * [18 Exploration in two-stage recommender systems](https://arxiv.org/abs/2009.08956). Jiri Hron, Karl Krauth, Michael Jordan, Niki Kilbertus. [Video](https://drive.google.com/file/d/1dA5mMtUT-3lJ-xcjeBd0AY-RzVrnrwpR/view?usp=sharing)
-* [21 Rankings for Two-Sided Market Platforms](/assets/pdfs/28.pdf). Yi Su, Thorsten Joachims. 
+* [21 Rankings for Two-Sided Market Platforms](/assets/pdfs/21.pdf). Yi Su, Thorsten Joachims. 
 * 22 Near-optimal inference in adaptive linear regression. Koulik Khamaru, Yash Deshpande, Lester Mackey, Martin Wainwright.
 * [28 Strategic Recourse in Linear Classification](/assets/pdfs/28.pdf). Yatong Chen, Jialu Wang, Yang Liu.
 * [29 Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels](/assets/pdfs/29.pdf). Jessica Dai, Sarah M Brown.
