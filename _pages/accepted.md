@@ -20,6 +20,7 @@ Only AM:
 * [18 Exploration in two-stage recommender systems](https://arxiv.org/abs/2009.08956). Jiri Hron, Karl Krauth, Michael Jordan, Niki Kilbertus.
 * 22 Near-optimal inference in adaptive linear regression. Koulik Khamaru, Yash Deshpande, Lester Mackey, Martin Wainwright.
 * [28 Strategic Recourse in Linear Classification](/assets/pdfs/28.pdf). Yatong Chen, Jialu Wang, Yang Liu.
+* [29 Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels](/assets/pdfs/29.pdf). Jessica Dai, Sarah M Brown.
 
 
 (Both) 
@@ -35,14 +36,13 @@ Only PM:
 * [12 Do Offline Metrics Predict Online Performance in Recommender Systems?](/assets/pdfs/12.pdf) Karl Krauth, Sarah Dean, Alex Zhao, Wenshuo Guo, Mihaela Curmei, Benjamin Recht, Michael Jordan.
 * 21 Rankings for Two-Sided Market Platforms. Yi Su, Thorsten Joachims.
 * [27 Echo Chambers in Collaborative Filtering Based Recommendation Systems](/assets/pdfs/27.pdf). Emil Noordeh, Roman Levin, Ruochen Jiang, Harris Shadmany.
+* [17 Fairness Under Partial Compliance](https://arxiv.org/abs/2011.03654). Jessica Dai, Sina Fazelpour, Zachary  Lipton.
 
 
 (Both)
 
 * 24 Understanding and Measuring Income Shocks as a Precursors to Poverty. Rediet Abebe, Jon Kleinberg, Andrew Wang.
 * [25 Evaluating Model Robustness to Dataset Shift](https://arxiv.org/abs/2010.15100). Adarsh Subbaswamy, Roy Adams, Suchi Saria.
-* [29 Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels](/assets/pdfs/29.pdf). Jessica Dai, Sarah M Brown.
-* [17 Fairness Under Partial Compliance](https://arxiv.org/abs/2011.03654). Jessica Dai, Sina Fazelpour, Zachary  Lipton.
 * [23 Optimizing Long-term Social Welfare in Recommender Systems](https://arxiv.org/abs/2008.00104). Martin Mladenov, Elliot Creager, Omer Ben-Porat, Kevin Swersky, Richard Zemel, Craig Boutilier.
 * [11 Rebounding Bandits for Modeling Satiation Effects](http://arxiv.org/abs/2011.06741). Liu Leqi, Fatma Kilinc-Karzan, Alan Montgomery, Zachary  Lipton.
 * [14 Bandit Data-driven Optimization: AI for Social Good and Beyond](https://arxiv.org/abs/2008.11707). Zheyuan Ryan Shi, Steven Wu, Rayid Ghani, Fei Fang.
