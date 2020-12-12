@@ -10,6 +10,13 @@ redirect_from:
 ---
 <center> Virtual workshop, December 12, 2020 @ Neurips</center>
 ------
+
+<p style="text-align: justify;">
+	* **[Gather.Town](https://neurips.gather.town/app/y2VG8424bFBvPFDn/CDDE)**
+	* **[Schedule](https://neurips.cc/virtual/2020/protected/workshop_16117.html)**
+	* **[Zoom](https://us02web.zoom.us/j/84555307675?pwd=bWdEalcvRC9ENFZkaW5IQTBpZGthUT09)**
+</p>
+
 <p style="text-align: justify;">
 Machine learning is becoming an integral component of sociotechnical
 systems. Predictions are used to grant beneficial resources or
@@ -27,8 +34,6 @@ researchers in fields ranging from public policy to computer science to
 economics have recently begun to view consequential decision-making through a
 dynamic lens. This workshop will confront the use of machine learning to make
 consequential decisions in dynamic environments. 
-
-Gather.Town: https://neurips.gather.town/app/y2VG8424bFBvPFDn/CDDE
 
 </p>
 
