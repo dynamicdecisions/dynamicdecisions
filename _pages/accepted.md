@@ -18,6 +18,7 @@ Only AM:
 * [8 How do fair decisions fare in long-term qualification?](/assets/pdfs/8.pdf) Xueru Zhang, Ruibo Tu, Yang Liu, Hedvig Kjellström, Mingyan Liu, Kun Zhang, Cheng Zhang.
 * [15 Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://arxiv.org/abs/2002.06278). Amir-Hossein Karimi, Bernhard Schölkopf, Isabel Valera.
 * [18 Exploration in two-stage recommender systems](https://arxiv.org/abs/2009.08956). Jiri Hron, Karl Krauth, Michael Jordan, Niki Kilbertus.
+* 21 Rankings for Two-Sided Market Platforms. Yi Su, Thorsten Joachims.
 * 22 Near-optimal inference in adaptive linear regression. Koulik Khamaru, Yash Deshpande, Lester Mackey, Martin Wainwright.
 * [28 Strategic Recourse in Linear Classification](/assets/pdfs/28.pdf). Yatong Chen, Jialu Wang, Yang Liu.
 
@@ -33,7 +34,6 @@ Poster session PM (2:45PM-3:45 PST):
 Only PM: 
 
 * [12 Do Offline Metrics Predict Online Performance in Recommender Systems?](/assets/pdfs/12.pdf) Karl Krauth, Sarah Dean, Alex Zhao, Wenshuo Guo, Mihaela Curmei, Benjamin Recht, Michael Jordan.
-* 21 Rankings for Two-Sided Market Platforms. Yi Su, Thorsten Joachims.
 * [27 Echo Chambers in Collaborative Filtering Based Recommendation Systems](/assets/pdfs/27.pdf). Emil Noordeh, Roman Levin, Ruochen Jiang, Harris Shadmany.
 
 
